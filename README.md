@@ -1,1 +1,1 @@
-TCC PUC MINAS - Pós Graduação em Ciência de Dados e Big Data
+# TCC INFNET – MBA em Gestão de Sistemas da Informação com SAP
